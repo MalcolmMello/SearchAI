@@ -1,9 +1,9 @@
-html {
+html { /*meu comentário*/
   font-size: 14px;
 }
 
 @media (min-width: 768px) {
-  html {
+  html { /*teste*/
     font-size: 16px;
   }
 }
