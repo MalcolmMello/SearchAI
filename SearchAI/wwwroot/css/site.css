@@ -1,9 +1,9 @@
-html .low .cagada{
+html { /*meu comentário*/
   font-size: 14px;
 }
 
 @media (min-width: 768px) {
-  html .lixo .teste{
+  html { /*teste*/
     font-size: 16px;
   }
 }
