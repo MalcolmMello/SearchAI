@@ -5,7 +5,7 @@ builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 //var app = builder.Build();
-
+// comentario legal 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
